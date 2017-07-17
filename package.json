@@ -1,0 +1,19 @@
+{
+  "name": "mit-demo-app",
+  "version": "1.0.0",
+  "description": "This is the template app displaying the skills we'll be learning in the Mum's in Tech Front End Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BexB1/mit-demo-app.git"
+  },
+  "author": "Becky Bolton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BexB1/mit-demo-app/issues"
+  },
+  "homepage": "https://github.com/BexB1/mit-demo-app#readme"
+}
