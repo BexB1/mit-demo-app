@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/BexB1/mit-demo-app/issues"
   },
-  "homepage": "https://github.com/BexB1/mit-demo-app#readme"
+  "homepage": "https://github.com/BexB1/mit-demo-app#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "ejs": "^2.5.6",
+    "handlebars": "^4.0.10",
+    "mustache": "^2.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-sass": "^3.1.0"
+  }
 }
